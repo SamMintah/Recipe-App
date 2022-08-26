@@ -1,4 +1,4 @@
-![Recipe App Image](./Recipe-app.png 'Recipe App image')
+![Recipe App Image](./Recipe-App.jpg 'Recipe App image')
 
 _if you just want to run it locally without specifications, you can go to the [How to run it locally section](#how-to-run-it-locally)_
 
